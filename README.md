@@ -1,1 +1,1 @@
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiantinaTheDev)
+![Stats](https://github-readme-stats.vercel.app/api?username=PiantinaTheDev&theme=tokyonight)
